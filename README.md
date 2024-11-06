@@ -13,3 +13,7 @@ for linux users its usually in $HOME/.config/blender/ver.num/scripts/startup/bl_
 for windows %appdata%\Blender Foundation\Blender\ver.num\scripts\startup\bl_app_templates_user
 for mac /Users/$USER/Library/Application Support/Blender/ver.num/scripts/startup/bl_app_templates_user
 Restart blender and you should then have an option for Map Making in new projects.
+
+also available at [https://github.com/jurassicjordan/Map_Making](https://zoetropegraphics.com/products/map-making-blender-startup) if you're not a big fan of cloning stuff
+
+If you like my work please consider donating to my bmac, or commission me! [https://buymeacoffee.com/countjj](https://buymeacoffee.com/countjj)
