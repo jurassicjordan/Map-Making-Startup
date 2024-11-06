@@ -14,6 +14,11 @@ for windows %appdata%\Blender Foundation\Blender\ver.num\scripts\startup\bl_app_
 for mac /Users/$USER/Library/Application Support/Blender/ver.num/scripts/startup/bl_app_templates_user
 Restart blender and you should then have an option for Map Making in new projects.
 
+Just want everyone to know, I did not create these addons and don't plan to keep them up to date in this repo, check out the original creator's repos for a download of updated and maintained versions of the included addons
+[ERF Level Buddy](https://github.com/EvilReFlex/ERF_LevelBuddyBlender)
+[ERF Grid Snapper](https://discord.gg/bGmQvbKV) [link in discord](https://discord.com/channels/837093162958848010/1084509647869845544/1265279052319559731)
+[View Lock](https://gist.github.com/Fweeb/bb61c15139bff338cb17)
+
 also available at [https://github.com/jurassicjordan/Map_Making](https://zoetropegraphics.com/products/map-making-blender-startup) if you're not a big fan of cloning stuff
 
 If you like my work please consider donating to my bmac, or commission me! [https://buymeacoffee.com/countjj](https://buymeacoffee.com/countjj)
