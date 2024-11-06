@@ -8,7 +8,7 @@ for linux users its usually in $HOME/.config/blender/ver.num/scripts/addons/.
 For windows %appdata%\Blender Foundation\Blender\ver.num\scripts\addons\.
 and mac /Users/$USER/Library/Application Support/Blender/ver.num/scripts/addons/
 
-then copy the whole "Map_Making" folder to blender's startup file folder.
+Clone the repository to the startup folder using ```https://github.com/jurassicjordan/Map_Making.git```, or if you downloaded it from my website, unzip the folder and copy it to the startup folder.
 for linux users its usually in $HOME/.config/blender/ver.num/scripts/startup/bl_app_templates_user.
 for windows %appdata%\Blender Foundation\Blender\ver.num\scripts\startup\bl_app_templates_user
 for mac /Users/$USER/Library/Application Support/Blender/ver.num/scripts/startup/bl_app_templates_user
